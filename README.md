@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ShivamRIG
-- 👀 I’m interested in Pyhon and New tech 
+- 👀 I’m interested in Pyhon and Cloud 
 - 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on pyhton basic project
 - 📫 How to reach me 
 email Shivamsingh8461@outlook.com
+
 
 
 <!---
