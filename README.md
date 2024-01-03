@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShivamRIG
-- 👀 I’m interested in Pyhon and Cloud 
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on pyhton basic project
+- 👋 Hi, I’m Shivam Singh
+- 👀 I’m interested in Pyhon and Solidity
+- 🌱 I’m currently learning Blockchain devlopment 
+- 💞️ I’m looking to collaborate on pyhton basic project and open source projects for Solidity
 - 📫 How to reach me 
 email Shivamsingh8461@outlook.com
 
