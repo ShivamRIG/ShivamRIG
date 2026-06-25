@@ -1,13 +1,7 @@
-- 👋 Hi, I’m Shivam Singh
-- 👀 I’m interested in Pyhon and Solidity
-- 🌱 I’m currently learning Blockchain devlopment 
-- 💞️ I’m looking to collaborate on pyhton basic project and open source projects for Solidity
-- 📫 How to reach me 
-email Shivamsingh8461@outlook.com
+# Hi, I'm Shivam Singh
 
+AI Engineering student building LLM-powered tools and agentic systems. Currently working with LangChain, MCP servers, and Groq. Also exploring Blockchain development with Solidity.
 
+Open to collaborating on Python and open source Web3 projects.
 
-<!---
-ShivamRIG/ShivamRIG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reach me at Shivamsingh8461@outlook.com
